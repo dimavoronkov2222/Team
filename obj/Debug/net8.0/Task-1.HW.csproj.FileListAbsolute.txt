@@ -1,0 +1,11 @@
+C:\Users\dimav\source\repos\Task-1.HW\bin\Debug\net8.0\Task-1.HW.deps.json
+C:\Users\dimav\source\repos\Task-1.HW\bin\Debug\net8.0\Task-1.HW.dll
+C:\Users\dimav\source\repos\Task-1.HW\bin\Debug\net8.0\Task-1.HW.pdb
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.AssemblyInfoInputs.cache
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.AssemblyInfo.cs
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.csproj.CoreCompileInputs.cache
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.dll
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\refint\Task-1.HW.dll
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\Task-1.HW.pdb
+C:\Users\dimav\source\repos\Task-1.HW\obj\Debug\net8.0\ref\Task-1.HW.dll
